@@ -5570,8 +5570,20 @@ body {
 .cid-rBfiJh86Yy .dropdown-item:hover {
   color: #7aae63 !important;
 }
-.cid-rCQV90nCc8 {
+.cid-rCQV90nCc81 {
   padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rCQV90nCc81 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rCQV90nCc81 H2 {
+  text-align: left;
+  color: #7aae63;
+}
+.cid-rCQV90nCc8 {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -5721,7 +5733,7 @@ body {
   content: '✓';
 }
 .cid-rCQVU1Hkzp .mbr-text {
-  color: #232323;
+  color: #465052;
 }
 .cid-rCQWdilumi {
   padding-top: 15px;
@@ -5975,25 +5987,6 @@ body {
   color: #7aae63;
   content: '✓';
 }
-.cid-rCQWJflF7A .counter-container ul ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 10px 55px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #7aae63;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  border: 1px solid #7aae63;
-  color: #7aae63;
-}
 .cid-rCQWJflF7A .mbr-text {
   color: #465052;
 }
@@ -6060,18 +6053,6 @@ body {
   text-align: left;
   color: #7aae63;
 }
-.cid-rCQYrjYJenv {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rCQYrjYJenv .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rCQYrjYJenv H2 {
-  text-align: left;
-  color: #7aae63;
-}
 .cid-rCQYrBrc6f {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -6109,45 +6090,6 @@ body {
   content: '✓';
 }
 .cid-rCQYrBrc6f .mbr-text {
-  color: #232323;
-}
-.cid-rCQYrBrc6fw {
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-rCQYrBrc6fw .counter-container {
-  color: #767676;
-}
-.cid-rCQYrBrc6fw .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-rCQYrBrc6fw .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-}
-.cid-rCQYrBrc6fw .counter-container ul li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #7aae63;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  background: none;
-  border: 1px solid #7aae63;
-  color: #7aae63;
-  content: '✓';
-}
-.cid-rCQYrBrc6fw .mbr-text {
   color: #232323;
 }
 .cid-rBnJ1MQjg0 {
