@@ -5975,6 +5975,25 @@ body {
   color: #7aae63;
   content: '✓';
 }
+.cid-rCQWJflF7A .counter-container ul ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 10px 55px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #7aae63;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid #7aae63;
+  color: #7aae63;
+}
 .cid-rCQWJflF7A .mbr-text {
   color: #465052;
 }
